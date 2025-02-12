@@ -13,3 +13,4 @@ requires "nim >= 2.2.0"
 
 requires "htmlparser >= 0.1.0"
 requires "beautifulparser >= 0.1.4"
+requires "winim >= 3.9.4"
