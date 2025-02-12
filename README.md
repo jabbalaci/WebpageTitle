@@ -41,7 +41,4 @@ It was tested under Linux and Windows. Under Linux
 you must have the command `xsel` (install it with your
 package manager).
 
-### Known Issues
-
-Under Windows Unicode characters are not copied
-correctly to the clipboard. PRs are welcome to fix this :)
+I have no Mac, so PRs for Mac support are welcome.
