@@ -37,8 +37,11 @@ $ make rel
 
 ## Supported Platforms
 
-It was tested under Linux and Windows. Under Linux
+It was tested under **Linux** and **Windows**. Under Linux
 you must have the command `xsel` (install it with your
 package manager).
 
-I have no Mac, so PRs for Mac support are welcome.
+I also added **MacOS** support, but I couldn't try it.
+Please send me a feedback if it works under Mac.
+Under Mac you must have the programs `pbcopy` and
+`pbpaste`.
