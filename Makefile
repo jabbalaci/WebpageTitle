@@ -10,6 +10,9 @@ c: setup
 rel: setup
 	nim c -d:release title.nim
 
+install:
+	nimble install
+
 clean:
 	rm -f ./title
 	rm -f ./title.exe
